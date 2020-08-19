@@ -22,7 +22,7 @@ Le tournoi sera exclusivement **online** sur [Fightcade2](https://www.fightcade.
 
 <div style="text-align: center;">
 	<div id="discordInviteBox"></div>
-<!-- </div> -->
+</div>
 
 
 <img src="/images/D1LZ1n.gif" >
