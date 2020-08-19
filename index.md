@@ -8,7 +8,9 @@ layout: default
 
 **La Windjammers Megaforge Ultra Cup se tient tous les ans depuis des millénaires.** Les guerriers de tous les continents se sont retrouvé sur cette petite plage, à s'envoyer des missiles, dans le but de prouver leur valeur. 
 
-Vous aussi, prouvez la vôtre. **Attrapez ce petit bout de plastique d'apparence insignifiante**, et chargez-le de tout votre courage, tandis que les hurlements du public vous vrillent les tympans. 
+Vous aussi, prouvez la vôtre. 
+
+**Attrapez ce petit bout de plastique d'apparence insignifiante**, et chargez-le de tout votre courage, tandis que les hurlements du public vous vrillent les tympans. 
 
 La Windjammers Megaforge Ultra Cup 2020 est à votre portée, et en plus **c'est gratuit**.
 
