@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/solo.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/discordInvite.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/rrssb.css">
+  <script src="{{ site.baseurl }}/scripts/jquery.js"></script>
+  <link rel="canonical" href="{{ site.url }}" />
+</head>
+<body>
+  <article>
+   <div class="container">
+    <img src='{{ site.baseurl }}/images/Logo_Windjammers_cup_2020-min.png' alt='c le logo'>
+    {{ content }}
+    </div>
+  </article>
+  <footer>
+    WINDJAMMERS LMF ULTRA CUP season #1 © Lamegaforge
+  </footer>
+<script src="{{ site.baseurl }}/scripts/discordInvite.js"></script>
+<script src="{{ site.baseurl }}/scripts/rrssb.min.js"></script>
+<script>
+  discordInvite.init({
+  inviteCode: 'AhrB6EU',
+  title: 'WINDJAMMERS LMF ULTRA CUP',
+});
+discordInvite.render();
+</script>
+</body>
+</html>
