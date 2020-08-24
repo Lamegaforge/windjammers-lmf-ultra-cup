@@ -18,7 +18,7 @@ La Windjammers Megaforge Ultra Cup 2020 est à votre portée, et en plus **c'est
 
 Le tournoi sera exclusivement **online** sur [Fightcade2](https://www.fightcade.com/) le **5 septembre à partir de 15h**, tous les matchs seront retranscrits sur le stream de [La Megaforge](https://www.twitch.tv/lamegaforgelive).
 
-**Pour participer**, il te suffit simplement de rejoindre ce discord puis de suivre les instructions !
+**Pour participer**, il te suffit de rejoindre ce discord puis de suivre les instructions !
 
 <div style="text-align: center;">
 	<div id="discordInviteBox"></div>
